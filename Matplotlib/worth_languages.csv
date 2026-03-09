@@ -1,0 +1,101 @@
+Responder_id,LanguagesWorkedWith
+1,Python;JavaScript;HTML/CSS
+2,Java;SQL;C#
+3,HTML/CSS;JavaScript
+4,C++;Python;SQL
+5,JavaScript;TypeScript;React
+6,Python;R;SQL
+7,Java;Spring;SQL
+8,Go;Docker;Kubernetes
+9,C#;ASP.NET;SQL
+10,Python;Machine Learning
+11,HTML/CSS;PHP;JavaScript
+12,Swift;iOS
+13,Kotlin;Java;Android
+14,Rust;C++
+15,Python;Data Analysis
+16,Bash/Shell/PowerShell;Python
+17,JavaScript;Vue;HTML/CSS
+18,Java;Hibernate;SQL
+19,Go;Cloud;Microservices
+20,C++;Algorithms
+21,Python;Django;SQL
+22,R;Statistics
+23,PHP;Laravel;MySQL
+24,JavaScript;Node.js;MongoDB
+25,HTML/CSS;WordPress
+26,Python;Automation
+27,C#;Unity
+28,Java;Concurrency;Threads
+29,TypeScript;Angular;JavaScript
+30,Python;Flask;SQL
+31,C;Embedded C
+32,Go;Networking
+33,Matlab;Python
+34,Rust;Systems Programming
+35,Swift;Mobile;UI
+36,JavaScript;Next.js;React
+37,Bash/Shell/PowerShell;Linux
+38,Python;ETL
+39,HTML/CSS;Bootstrap;JavaScript
+40,C#;.NET;SQL
+41,Java;Backend;Spring
+42,Go;CLI Tools
+43,R;Data Visualization
+44,PHP;CodeIgniter
+45,Python;Scripting
+46,C++;Game Development
+47,HTML/CSS;Accessibility
+48,JavaScript;Testing
+49,SQL;Database Design
+50,Python;AI
+51,Java;JVM;Spring
+52,PHP;CMS
+53,C++;Performance
+54,Python;Deep Learning
+55,JavaScript;Charts
+56,Python;Web Scraping
+57,HTML/CSS;Email Templates
+58,Java;Microservices
+59,C#;Azure
+60,Go;Microservices;Cloud
+61,Python;Machine Learning;Data Analysis
+62,HTML/CSS;JavaScript;SASS
+63,JavaScript;TypeScript;Angular
+64,Bash/Shell/PowerShell;DevOps
+65,Python;Data Engineering
+66,Java;Spring Boot;SQL
+67,C++;Low-level Programming
+68,Go;Networking;Cloud
+69,Rust;Memory Safety
+70,Python;Data Science;Pandas
+71,Swift;iOS;Mobile
+72,HTML/CSS;JavaScript;React
+73,JavaScript;Node.js;Express
+74,C#;Unity;Game Development
+75,Python;AI;Deep Learning
+76,PHP;APIs;MySQL
+77,JavaScript;Frontend;React
+78,Python;Flask;Web Development
+79,C++;Qt;GUI
+80,HTML/CSS;Accessibility;SASS
+81,Java;Kotlin;Android
+82,R;Shiny;Data Visualization
+83,Go;Docker;Kubernetes
+84,Python;Automation;Scripting
+85,JavaScript;TypeScript;Next.js
+86,C#;Azure;Cloud
+87,Python;ETL;Data Pipelines
+88,HTML/CSS;WordPress;PHP
+89,C++;Game Development;Graphics
+90,Python;Data Analysis;Visualization
+91,JavaScript;React;Redux
+92,Bash/Shell/PowerShell;Linux;DevOps
+93,Rust;Systems Programming;Embedded
+94,Python;Web Scraping;BeautifulSoup
+95,HTML/CSS;JavaScript;Email Templates
+96,Java;Backend;Microservices
+97,PHP;Laravel;CMS
+98,Python;Machine Learning;AI
+99,C++;Algorithms;Performance
+100,JavaScript;Charts;D3.js
