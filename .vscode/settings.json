@@ -6,6 +6,5 @@
         "comments": false,
         "strings": false
     },
-    "editor.hover.enabled": "off",
-    "git.autoRepositoryDetection": false
+    "editor.hover.enabled": "off"
 }
