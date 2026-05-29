@@ -1,10 +1,12 @@
     **** Linear Regression Model working flow ****
     -------------------------------------------------
-        [ first we have given input X and y ]
-        
+        [ input X and y ]
+               |
+               \/
         [ where X -> features (parameters) and]
         [       y -> actual data              ]
-        
+                 |
+                 \/
         [ model.fit(X, y) ]
                 |
                 \/
