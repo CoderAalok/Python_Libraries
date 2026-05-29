@@ -1,0 +1,21 @@
+    **** Linear Regression Model working flow ****
+    -------------------------------------------------
+        [ first we have given input X and y ]
+        
+        [ where X -> features (parameters) and]
+        [       y -> actual data              ]
+        
+        [ model.fit(X, y) ]
+                |
+                \/
+        [ this actually interally calculated the parameters w and b ]
+                |
+                \/
+        [ model.predict(X) ]
+                |
+                \/
+        [ y^ = w * X + b ]  :: {So here interally takes calculated parameters w and b}
+                |
+                \/
+            [ Output ]
+    
