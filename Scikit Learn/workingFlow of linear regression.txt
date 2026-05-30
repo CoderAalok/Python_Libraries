@@ -29,10 +29,10 @@
                 |
                 \/
         [Learning algorithm]
-(learns the patterns from data)
+   (learns the patterns from data)
                 |
                 \/
-        [Trained model]
+          [Trained model]
         
 
 
