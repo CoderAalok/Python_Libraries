@@ -1,21 +1,38 @@
     **** Linear Regression Model working flow ****
     -------------------------------------------------
-        [ first we have given input X and y ]
-        
-        [ where X -> features (parameters) and]
-        [       y -> actual data              ]
-        
-        [ model.fit(X, y) ]
+         [Input X and y]
+                |
+        (where X -> features (parameters) and)
+        (      y -> actual data              )
                 |
                 \/
-        [ this actually interally calculated the parameters w and b ]
+        [model.fit(X, y)]
                 |
                 \/
-        [ model.predict(X) ]
+(this actually interally calculated the parameters w and b)
                 |
                 \/
-        [ y^ = w * X + b ]  :: {So here interally takes calculated parameters w and b}
+         [model.predict(X)]
+                |
+                \/
+         [y^ = w * X + b] 
+(So here interally takes calculated parameters w and b)
                 |
                 \/
             [ Output ]
-    
+
+#-----------------------------------#------------------------------------#--------------------------------------------#
+
+**** High level abstraction working flow****
+-----------------------------------------------
+        [Training dataset (A)]
+                |
+                \/
+        [Learning algorithm]
+(learns the patterns from data)
+                |
+                \/
+        [Trained model]
+        
+
+
