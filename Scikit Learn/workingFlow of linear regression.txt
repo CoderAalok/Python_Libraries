@@ -10,7 +10,7 @@
           [model.fit(X, y)]
                 |
                 \/
-(this actually interally calculated the parameters w and b)
+(here interally calculate the parameters w and b)
                 |
                 \/
           [model.predict(X)]
